@@ -107,3 +107,6 @@ public Todo(String title) {
 Restart with `mvn clean quarkus:dev` after changing the constructor. 
 Removing the explicit `super()` also places the implicit superclass invocation before the constructor body.
 
+## Collaborator
+- [Julian PLAZER-MOREAU](https://github.com/Mulianz)
+- [Yasmine](https://github.com/yasminebyb)
