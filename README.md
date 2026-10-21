@@ -20,8 +20,8 @@
 ## Installation
 
 ```sh
-git clone <url-du-repo>
-cd <repo>
+git clone https://github.com/Mulianz/Quarkus-hibernate-bug-reproduction.git
+cd Quarkus-hibernate-bug-reproduction
 mvn clean verify
 ```
 
